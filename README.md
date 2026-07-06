@@ -3,7 +3,7 @@ a 3 key switch macropad made to make shortcuts and hotkeys easier to acess, the 
 ![CASE DESIGN FOR THE PCB](https://github.com/Rando1f/hackpad-1/blob/16972749e0e1d3ad7b00be35b7db3c53d59c9fbc/Assests/Case%203%2C4%20view.png)
 <p float =left>
    <img src="Assests/PCB%20schametic.png" width="600"/>
-    <img src="Assests/PCB%20design.png" width="200"/>
+    <img src="Assests/PCB%20design.png" width="140"/>
 </p>
 
 # Case
@@ -21,7 +21,7 @@ The keypad features three switch buttons, all connected to the ground. Rather th
 It uses a module-seeeduino-xiao rp2040 as thigns desi microcontroller 
 <p float =left>
    <img src="Assests/PCB%20schametic.png" width="600"/>
-    <img src="Assests/PCB%20design.png" width="200"/>
+    <img src="Assests/PCB%20design.png" width="140"/>
 </p>
 
 enjoy :3
