@@ -7,4 +7,8 @@ a 3 key switch macropad made to make shortcuts and hotkeys easier to acess, the 
 </p>
 
 # Case
-![](https://github.com/Rando1f/hackpad-1/blob/main/Assests/Case%20base.png)
+<p float =left>
+   <img src="[Assests/PCB%20schametic.png](https://github.com/Rando1f/hackpad-1/blob/main/Assests/Case%20base.png)" width="400"/>
+    <img src="[Assests/PCB%20design.png](https://github.com/Rando1f/hackpad-1/blob/7bd8ddf7b992b56c17c40b0d9c12c6c07d2b4282/Assests/Case%20plate.png)" width="200"/>
+</p>
+
