@@ -7,7 +7,7 @@ a 3 key switch macropad made to make shortcuts and hotkeys easier to acess, the 
 </p>
 
 # Case
-
+made in: Autofusion360
 The case has two main parts: the base and the plate. The base features a custom-made SCV extrusion. It is my Minecraft head design. The plate doesn't have anything special, other than the black color that I put on it, featuring three spaces for each key switch to be put in.
 
 <p float =left>
@@ -16,12 +16,15 @@ The case has two main parts: the base and the plate. The base features a custom-
 </p>
 
 # PCB
-
+made in: KiCad
 The keypad features three switch buttons, all connected to the ground. Rather than using the normal columns and rows, I decided to use the grounding method, so they are considered direct pins, as the number of keys didn't require many pins to start with. 
 It uses a module-seeeduino-xiao rp2040 as thigns desi microcontroller 
 <p float =left>
    <img src="Assests/PCB%20schametic.png" width="600"/>
     <img src="Assests/PCB%20design.png" width="140"/>
-</p>
+</p>  
 
+# firmware
+made using: QMK
+the firmware was made through QMK using the function known as arcpins, as the pins themselves were made directly connected to the GND.
 enjoy :3
