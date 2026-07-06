@@ -9,6 +9,6 @@ a 3 key switch macropad made to make shortcuts and hotkeys easier to acess, the 
 # Case
 <p float =left>
    <img src="Assests/Case base.png" width="400"/>
-   <img src="Assests/Case plate.png" width="200"/>
+   <img src="Assests/Case plate.png" width="400"/>
 </p>
 
