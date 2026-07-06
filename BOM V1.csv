@@ -1,0 +1,6 @@
+Qty,Part,Description
+3,cherry-mx switchs,the macropad switchs
+3,Keycaps,
+1,Seeed XIAO RP2040,the microcontreler for the macropad
+1,PCB design,this could be acssed through the gerber files 
+1,Case,the .step file in the CAD folder
